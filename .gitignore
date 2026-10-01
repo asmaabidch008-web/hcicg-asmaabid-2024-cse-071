@@ -1,0 +1,4 @@
+build
+*.o
+_pychache_
+venu
